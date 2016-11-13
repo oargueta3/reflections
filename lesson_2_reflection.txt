@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creates a hidden meta data called .git to store information about your repository.You need to do it to initialize your folder as a git repository and be able to use Git file management features.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory is the containing folder it just holds the files. Repository lives inside the working directory and is an elevated abstraction of one that keeps meta data on the files you want to be able to track changes over time. the staging area is like the purgatory. these is were you add files from the working directory that you are ready to be added(begin to be archived by the repository). you have control of when you would like to start version controlling an specific file
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
