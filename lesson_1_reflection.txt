@@ -1,0 +1,30 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+ It made it really easy to compare with the last version of the code to clearly see what had changed. I no longer have to go through all lines of code, and just focus on the ones were changes were made.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+   It will allow me to correct any mistake if I decide to try something new and mess up. I can go back and start from a specific point. track the evolution of my coding practices and improve upon them. Will make it easier to find bugs and the point where these bugs were generated. Give me more control of my code over time. Revert to a less buggy version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+ Pros: You choose when saving a document makes logical sense.Auto-saving may occur at points where the changes that took place have no logical sense. Control the size and quality of your commits. Include notes to guide others on what changes were made.
+
+Cons: Prone to human error. undisciplined users may not save as often as they should.Saves progress in case a computer crash occurs.removes the responsibility from the user.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   Code unlike Word Documents, have dependencies between several files. Big projects have have multiple files. A change in one may affect other files. Keeping a long of the entire project allows you to see a snap shot of the whole and see what the differences are in the project and not a single file within the project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  I am able to see what changes occurred in every commit and compare them to one another. Easily Identify where changes took place saving lots of time.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+It allows me to explore freely without having to worry about messing up. If I do i can bring back old commits and quickly determine when things went wrong in my code.
