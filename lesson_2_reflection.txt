@@ -9,6 +9,8 @@ Working directory is the containing folder it just holds the files. Repository l
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+you can use the staging area to add the relevant files updates for the logical change
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
