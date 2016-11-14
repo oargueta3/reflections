@@ -18,6 +18,8 @@ Branches would help by keeping tabs on the number of parallel activities managin
 
 How do the diagrams help you visualize the branch structure?
 
+its like a binary tree you can see the child and parents node and it makes easier to visualize reachability
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
