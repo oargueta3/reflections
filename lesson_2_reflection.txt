@@ -11,8 +11,10 @@ change?
 
 you can use the staging area to add the relevant files updates for the logical change
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?  
+
+when working in in a multi person project they could branch to work on a specific task. to create and alternative version of the original project. work on a bug fix. do experimental work without messing up the master file.
+Branches would help by keeping tabs on the number of parallel activities managing those activities and helping keep the project organized.
 
 How do the diagrams help you visualize the branch structure?
 
