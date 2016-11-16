@@ -23,5 +23,7 @@ its like a binary tree you can see the child and parents node and it makes easie
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result of merging two branches together is the the consolidations of two lines of work or more and being able to work in parallel an successfully combine into a single working project. because its easy to visualize as a tree and then showing when the branches combine.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
